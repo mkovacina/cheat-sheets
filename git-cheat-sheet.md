@@ -14,7 +14,7 @@ Markdown hints: https://www.markdownguide.org/basic-syntax
 
 ## changing the commit message before push
 1. `git commit --amend -m "New commit message."`
-2. git push --force
+2. `git push --force`
 
 # References
 1. https://devconnected.com/how-to-set-upstream-branch-on-git/
