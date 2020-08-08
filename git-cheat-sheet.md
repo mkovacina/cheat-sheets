@@ -16,6 +16,10 @@ Markdown hints: https://www.markdownguide.org/basic-syntax
 1. `git commit --amend -m "New commit message."`
 2. `git push --force`
 
+## resetting a workspace
+1. `git reset --hard`
+2. `git clean -df`
+
 # References
 1. https://devconnected.com/how-to-set-upstream-branch-on-git/
 2. https://linuxize.com/post/change-git-commit-message/
