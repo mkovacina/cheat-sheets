@@ -20,6 +20,12 @@ Markdown hints: https://www.markdownguide.org/basic-syntax
 1. `git reset --hard`
 2. `git clean -df`
 
+## undo the last commit but keeping the changes
+`git reset --soft HEAD~1`
+
+## undo the last commit without keeping the changes
+`git reset --hard HEAD~1`
+
 # References
 1. https://devconnected.com/how-to-set-upstream-branch-on-git/
 2. https://linuxize.com/post/change-git-commit-message/
