@@ -3,7 +3,6 @@
 Markdown hints: https://www.markdownguide.org/basic-syntax
 
 ## pushing a branch
-`git push -u origin`
 `git push -u origin HEAD`
 
 ## set the tracking branch at creation time
