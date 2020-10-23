@@ -17,7 +17,7 @@ Markdown hints: https://www.markdownguide.org/basic-syntax
 
 ## resetting a workspace
 1. `git reset --hard`
-2. `git clean -df`
+2. `git clean -xdf`
 
 ## undo the last commit but keeping the changes
 `git reset --soft HEAD~1`
