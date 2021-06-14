@@ -8,4 +8,5 @@
 
 # References
 1. https://docs.microsoft.com/en-us/dotnet/core/tools/csproj
+2. https://docs.microsoft.com/en-us/visualstudio/msbuild/common-msbuild-project-properties
 

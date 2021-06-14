@@ -32,6 +32,9 @@ Markdown hints: https://www.markdownguide.org/basic-syntax
 4. `git reset --hard HEAD~3` # Go back 3 commits. You *will* lose uncommitted work.
 5. `git checkout existingbranch`
 
+## useful `git log` variation
+`git log --oneline --graph --decorate`
+
 # References
 1. https://devconnected.com/how-to-set-upstream-branch-on-git/
 2. https://linuxize.com/post/change-git-commit-message/
