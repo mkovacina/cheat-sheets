@@ -41,6 +41,10 @@ Markdown hints: https://www.markdownguide.org/basic-syntax
 ## `git log` for a specific file with rename tracking
 `git log --follow -- filename.ext`
 
+## move changes to a new branch easily
+1. add files to a stash 
+2. `git stash branch newbranchname`
+
 # References
 1. https://devconnected.com/how-to-set-upstream-branch-on-git/
 2. https://linuxize.com/post/change-git-commit-message/
