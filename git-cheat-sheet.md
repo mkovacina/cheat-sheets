@@ -45,6 +45,11 @@ Markdown hints: https://www.markdownguide.org/basic-syntax
 1. add files to a stash 
 2. `git stash branch newbranchname`
 
+## remove all remote branches with no local counterpart
+`git push --prune`
+
+**BE CAREFUL...this could be less than pleasant if executed in the wrong context**
+
 # References
 1. https://devconnected.com/how-to-set-upstream-branch-on-git/
 2. https://linuxize.com/post/change-git-commit-message/
