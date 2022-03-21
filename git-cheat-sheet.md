@@ -48,6 +48,9 @@ Markdown hints: https://www.markdownguide.org/basic-syntax
 ## remove all remote branches with no local counterpart
 `git push --prune`
 
+## `git log` alias
+`git config --global alias.hist "log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short --decorate"`
+
 **BE CAREFUL...this could be less than pleasant if executed in the wrong context**
 
 # References
